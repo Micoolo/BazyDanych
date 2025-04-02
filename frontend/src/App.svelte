@@ -27,6 +27,7 @@
 </Router>
 
 <style>
+	@import url("/global.css");
 	nav {
 		margin: 20px;
 		padding: 15px;
