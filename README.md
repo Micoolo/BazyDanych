@@ -49,9 +49,11 @@ cd frontend
 npm install
 npm run dev
 ```
+## Diagram bazy danych
+![](images/DB_table.png)
 
-![Diagram bazy danych](images/DB_table.png)
+## Przykład 1
+![](images/p1.png)
 
-![Przykład](images/p1.png)
-
-![Przykład](images/p2.png)
+## Przykład 2
+![](images/p2.png)
